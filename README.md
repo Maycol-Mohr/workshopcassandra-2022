@@ -1,9 +1,10 @@
 # workshopcassandra-2022
+
 Workshop Spring Boot Cassandra (Escola: DevSuperior.com, Prof: Nelio Alves)
 
-Projeto DSProducts (Cassandra)
+# Projeto DSProducts (Cassandra)
 
-Tecnologias utilizadas:
+# Tecnologias utilizadas:
 
 - Java;
 - SpringBoot;
